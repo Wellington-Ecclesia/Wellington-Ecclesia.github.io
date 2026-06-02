@@ -1,0 +1,10 @@
+title: Wellington Ecclesia
+theme: jekyll-theme-primer
+exclude:
+    - test.sh
+    - .gitignore
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: "default"

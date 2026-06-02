@@ -1,0 +1,63 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body > h1:first-of-type {
+    display: none !important;
+}
+
+div.container-lg.px-3.my-5.markdown-body {
+    margin-top: 0 !important;
+}
+
+/* Continuous numbering across separate <ol> blocks (e.g. constitution rules) */
+.markdown-body {
+    counter-reset: rule-counter;
+}
+.doc-section {
+    counter-reset: rule-counter;
+}
+.markdown-body > ol > li,
+.doc-section > ol > li {
+    counter-increment: rule-counter;
+}
+.markdown-body > ol > li::marker,
+.doc-section > ol > li::marker {
+    content: counter(rule-counter) ". ";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    break-after: avoid;
+    page-break-after: avoid; /* Legacy print support */
+    column-break-after: avoid; /* Legacy multi-column support */
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+h1::after,
+h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+    content: "";
+    display: block;
+    height: 200px;
+    margin-bottom: -200px;
+}
+
+@media print {
+    .markdown-body li {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+    ol {
+        page-break-before: avoid;
+        break-before: avoid;
+    }
+}
