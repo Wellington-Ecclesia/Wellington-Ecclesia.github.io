@@ -2,6 +2,7 @@
 
 > Adopted by a special ballot held in September 2002.  
 Revised by a special ballot held in December 2008.  
+Revised by a special ballot held in April 2026.  
 
 ## The Ecclesia
 ### Name
@@ -89,7 +90,7 @@ Revised by a special ballot held in December 2008.
     In the election of all serving brethren, the principles laid down in 1 Timothy 3 and Titus 1 should be observed.
 
 ### Election of Serving Brethren
-22. That the mode of election shall be by nomination and ballot. Nominees shall be proposed, subject to their prior consent, and seconded in writing on the nomination sheet. All names nominated, together with the offices to be filled, shall be submitted to the brothers and sisters on a printed form, with instructions as to the method of voting appended. Only ballot papers placed in the ballot box shall be counted as votes. Those having the highest number of votes shall be elected, each of whom must have a majority of those voting. There shall be no canvassing for votes.
+22. That the mode of election shall be by nomination and ballot. Eligible nominees shall be proposed, subject to their prior consent, and seconded in writing by another eligible member. All names nominated, together with the offices to be filled, shall be submitted to the brothers and sisters, with instructions as to the method of voting appended. Only votes cast correctly according to the instructions shall be counted as votes. Those having the highest number of votes shall be elected, each of whom must have a majority of those voting. There shall be no canvassing for votes.
 
     Where any office remains vacant the arranging brethren shall have authority to fill the vacancy, temporarily, until a by-election is held.
 
