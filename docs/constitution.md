@@ -10,7 +10,7 @@ Revised by a special ballot held in July 2026.
 1. That we are the Wellington Christadelphian Ecclesia
 
 ### Beliefs
-2. That we accept and profess the doctrines and precepts of the Lord Jesus Christ, as taught in the Holy Scriptures, and defined in the annexed Statement of the Faith, Doctrines to be Rejected and Epitome of the Commandments of Christ.
+2. That we accept and profess the doctrines and precepts of the Lord Jesus Christ, as taught in the Holy Scriptures, and defined in the annexed Statement of the Faith, Doctrines to be Rejected, and Epitome of the Commandments of Christ.
 
 3. That we mutually agree to submit to the order and arrangements preferred by the greater number.
 
@@ -23,7 +23,7 @@ Revised by a special ballot held in July 2026.
 ### Activities
 5. That all activities held in the name of the Ecclesia and all usage of the Ecclesial Hall shall be subject to the approval of the Arranging Brethren.
 
-### Literature, etc.
+### Literature etc.
 6. That the issuing of all circulars, pamphlets, letters, periodicals or other material to members of the Ecclesia shall be subject to the approval of the Arranging Brethren.
 
 ## Meetings
@@ -31,7 +31,7 @@ Revised by a special ballot held in July 2026.
     1. on the Sunday of each week (except when otherwise arranged) for the Memorial Meeting;
     2. weekly (except when otherwise arranged) for the proclamation of the gospel;
     3. weekly (except when otherwise arranged) for the study of the Holy Scriptures;
-    4. annually, one afternoon or evening within two months of the financial year end, for the purpose of the Annual Business Meeting, when it shall require a fourth part of the Ecclesia as defined in Rule 8 to form a quorum.
+    4. annually, one afternoon or evening within two months of the financial year end, for the purpose of the Annual Business Meeting, when it shall require a fourth part of the Ecclesia to form a quorum.
 
 ### Special Meetings
 8. That Special Business Meetings be convened by the Recording Brother at the request of the Arranging Brethren, or by the written requisition of members representing at least one eighth part of the Ecclesia. At all Special Business Meetings it shall require a fourth part of the Ecclesia to form a quorum.
@@ -54,7 +54,7 @@ Revised by a special ballot held in July 2026.
         1. **Baptism**: All those baptised by the Ecclesia shall be deemed members of the Ecclesia.
         2. **Transfer of Membership**: A transfer of membership from an Ecclesia in fellowship shall (in the absence of objection) be effective by a letter of commendation from that Ecclesia, unless considered unnecessary by the Arranging Brethren.
         3. **Admission to Membership**: Admission to membership shall be granted subject to a satisfactory interview with the Arranging Brethren.
-    2. That any brother or sister wishing to transfer membership to another Ecclesia in fellowship should make application to the Recording Brother for a letter of recommendation.
+    2. That any Brother or Sister wishing to transfer membership to another Ecclesia in fellowship should make application to the Recording Brother for a letter of recommendation.
 
 ## Fellowship
 13. That all members of the world-wide Christadelphian body who meet on the same basis as defined in Rule 2, shall be welcome to participate in the Memorial Meeting.
@@ -74,20 +74,20 @@ Refer Micah 6 v 8, James 2 v 13
 
 ### Marrying an Unbeliever
 17. Marrying an Unbeliever
-    1. That fellowship shall be withdrawn from a brother or sister who marries outside the Household of Faith. Fellowship may be restored after a satisfactory interview with the Arranging Brethren.
+    1. That fellowship shall be withdrawn from a Brother or Sister who marries outside the Household of Faith. Fellowship may be restored after a satisfactory interview with the Arranging Brethren.
     2. That those who believe or teach the contrary shall be considered offenders against the law of Christ (refer Rule 14).
 
 
 ## Relationships with other Ecclesias
-18. That no brother or sister whose fellowship has ceased with another Ecclesia in fellowship, shall be received in fellowship with this Ecclesia until the cause has been investigated and opportunity given to that Ecclesia to join in the investigation.
+18. That no Brother or Sister whose fellowship has ceased with another Ecclesia in fellowship, shall be received in fellowship with this Ecclesia until the cause has been investigated and opportunity given to that Ecclesia to join in the investigation.
 
-19. That if an Ecclesia in fellowship receives a brother or sister whose fellowship has ceased from this Ecclesia under Rule 14, this shall not be reason for this Ecclesia ceasing to recognise the other Ecclesia in fellowship. Reason for so doing may be afforded by a refusal by that Ecclesia to arrange for an investigation when requested.
+19. That if an Ecclesia in fellowship receives a Brother or Sister whose fellowship has ceased from this Ecclesia under Rule 14, this shall not be reason for this Ecclesia ceasing to recognise the other Ecclesia in fellowship. Reason for so doing may be afforded by a refusal by that Ecclesia to arrange for an investigation when requested.
 
 ## Serving Brethren
 20. Serving Brethren
     1. That the following Serving Brethren shall be elected annually by the Ecclesia: Arranging Brothers, Presiding Brothers, Exhorting Brothers, Gospel Proclamation Brothers, Sunday School Superintendent, Librarian, Registrar and Welfare Brethren.
-    2. The Arranging Brethren shall consist of up to seven brothers. At their first meeting after the election the Arranging Brethren shall appoint one of their number to serve as Recording Brother, and shall appoint a brother to serve as Finance Brother.
-    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: brothers to speak at Bible Class, and brother and sisters to serve as doorkeepers, organists, table stewards, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
+    2. The Arranging Brethren shall consist of up to seven Brothers. At their first meeting after the election the Arranging Brethren shall appoint one of their number to serve as Recording Brother, and shall appoint a Brother to serve as Finance Brother.
+    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: Brothers to speak at Bible Class, and Brother and Sisters to serve as doorkeepers, organists, table stewards, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
     4. That Serving Brethren shall do their duties as rostered, or provide a substitute from their own number.
 
 ### Eligibility
@@ -106,7 +106,7 @@ Refer Micah 6 v 8, James 2 v 13
     2. Behaviour unworthy of the name of Christ shall, when proved against any Serving Brethren to the satisfaction of the Arranging Brethren, have the effect of cancelling any appointment held, without a vote of the Ecclesia, and the appointment shall in that case be treated as vacant, and steps taken to fill it accordingly.
 
 ### Presiding Brothers
-24. That the elected presiding brothers shall be responsible for conducting the Sunday morning and evening meetings, and shall preside as nearly as practicable in rotation. For other week-night meetings, meetings of a special character, and business meetings, the Arranging Brethren shall appoint brothers to preside who shall be responsible for conducting such meetings.
+24. That the elected presiding Brothers shall be responsible for conducting the Sunday morning and evening meetings, and shall preside as nearly as practicable in rotation. For other week-night meetings, meetings of a special character, and business meetings, the Arranging Brethren shall appoint Brothers to preside who shall be responsible for conducting such meetings.
 
 ### Recording Brother
 (see also Rules 11, 14, 29, 31, 32)
@@ -119,7 +119,9 @@ Refer Micah 6 v 8, James 2 v 13
     5. Remind Serving Brethren of their appointments;
     6. Make the necessary preparations to facilitate the business of the Arranging Brethren and of the Ecclesia.
 
-### Finance Brother (see also Rule 4)
+### Finance Brother
+(see also Rule 4)
+
 26. That the Finance Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia:
     1. Receive all funds accruing to the Ecclesia and make all necessary payments;
     2. Keep proper accounts and records relating to all receipts and payments, which may be actioned using computerised accounting and / or other software applications;
@@ -147,4 +149,4 @@ Refer Micah 6 v 8, James 2 v 13
 31. That the Arranging Brethren shall (by the Recording Brother) table the confirmed minutes of their proceedings at the Annual Meeting for acceptance by the Ecclesia.
 
 ## Alteration of Rules
-32. That none of the foregoing rules (with the exception of Rule 4(b) which must be retained to comply with the law of the land) be altered except by a ballot of the whole Ecclesia. To be effective, the alteration must receive the support of at least two thirds of those voting and one half of the numbers on the Ecclesial Roll. A month’s previous notice of intention to propose such alteration (which shall be signed by members representing at least one eighth part of the Ecclesia) must be given to the Recording Brother, who shall place the same on the notice board at the Hall as soon as possible and have it announced to the Ecclesia on four occasions at four consecutive Memorial Meetings and use four consecutive weekly online announcements.
+32. That none of the foregoing rules (with the exception of Rule 4(ii) which must be retained to comply with the law of the land) be altered except by a ballot of the whole Ecclesia. To be effective, the alteration must receive the support of at least two thirds of those voting and one half of the numbers on the Ecclesial Roll. A month’s previous notice of intention to propose such alteration (which shall be signed by members representing at least one eighth part of the Ecclesia) must be given to the Recording Brother, who shall place the same on the notice board at the Hall as soon as possible and have it announced to the Ecclesia on four occasions at four consecutive Memorial Meetings and use four consecutive weekly online announcements.
