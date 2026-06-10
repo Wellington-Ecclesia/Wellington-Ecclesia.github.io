@@ -29,7 +29,7 @@ Revised by a special ballot held in July 2026.
 ## Meetings
 7. That we meet:
     1. on the Sunday of each week (except when otherwise arranged) for the Memorial Meeting;
-    2. weekly (except when otherwise arranged) for the proclamation of the gospel;
+    2. weekly (except when otherwise arranged) for the proclamation of the Gospel;
     3. weekly (except when otherwise arranged) for the study of the Holy Scriptures;
     4. annually, one afternoon or evening within two months of the financial year end, for the purpose of the Annual Business Meeting, when it shall require a fourth part of the Ecclesia to form a quorum.
 
@@ -60,7 +60,7 @@ Revised by a special ballot held in July 2026.
 13. That all members of the world-wide Christadelphian body who meet on the same basis as defined in Rule 2, shall be welcome to participate in the Memorial Meeting.
 
 ### Departure from the Faith, Absence
-Refer Micah 6 v 8, James 2 v 13
+Refer Micah 6:8, James 2:13
 
 14. That any member departing from any element of the One Faith (refer to Rule 2) or persistently absent without just cause from attending the Memorial Meeting, or wilfully behaving in a manner unworthy of the name of Christ, shall on proof of the fact being given to the satisfaction of the Arranging Brethren cease to be in fellowship. This action is to be taken only after all scriptural steps have been followed to restore the member. The decision to withdraw fellowship shall be announced to the Ecclesia at the next Memorial Meeting, and notified in suitable ecclesial intelligence.
 
@@ -69,7 +69,7 @@ Refer Micah 6 v 8, James 2 v 13
 
 ### Separation
 16. That none shall, even for a legitimate cause, separate themselves from the Ecclesia without:
-    1. without first discussing with or submitting in writing to the Recording Brother, the cause or causes of impending separation, and
+    1. first discussing with or submitting in writing to the Recording Brother, the cause or causes of impending separation, and
     2. with a view to resolving the issue or issues, the Arranging Brethren or a small group thereof, shall make all endeavours to meet with the person separating with a view to resolving the issue.
 
 ### Marrying an Unbeliever
@@ -87,7 +87,7 @@ Refer Micah 6 v 8, James 2 v 13
 20. Serving Brethren
     1. That the following Serving Brethren shall be elected annually by the Ecclesia: Arranging Brothers, Presiding Brothers, Exhorting Brothers, Gospel Proclamation Brothers, Sunday School Superintendent, Librarian, Registrar and Welfare Brethren.
     2. The Arranging Brethren shall consist of up to seven Brothers. At their first meeting after the election the Arranging Brethren shall appoint one of their number to serve as Recording Brother, and shall appoint a Brother to serve as Finance Brother.
-    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: Brothers to speak at Bible Class, and Brother and Sisters to serve as doorkeepers, organists, table stewards, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
+    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: Brothers to speak at Bible Class, and Brothers and Sisters to serve as doorkeepers, organists, table stewards, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
     4. That Serving Brethren shall do their duties as rostered, or provide a substitute from their own number.
 
 ### Eligibility
@@ -106,15 +106,15 @@ Refer Micah 6 v 8, James 2 v 13
     2. Behaviour unworthy of the name of Christ shall, when proved against any Serving Brethren to the satisfaction of the Arranging Brethren, have the effect of cancelling any appointment held, without a vote of the Ecclesia, and the appointment shall in that case be treated as vacant, and steps taken to fill it accordingly.
 
 ### Presiding Brothers
-24. That the elected presiding Brothers shall be responsible for conducting the Sunday morning and evening meetings, and shall preside as nearly as practicable in rotation. For other week-night meetings, meetings of a special character, and business meetings, the Arranging Brethren shall appoint Brothers to preside who shall be responsible for conducting such meetings.
+24. That the elected Presiding Brothers shall be responsible for conducting the Sunday morning and evening meetings, and shall preside as nearly as practicable in rotation. For other week-night meetings, meetings of a special character, and business meetings, the Arranging Brethren shall appoint Brothers to preside who shall be responsible for conducting such meetings.
 
 ### Recording Brother
-(see also Rules 11, 14, 29, 31, 32)
+(see also Rules 8, 11(ii), 12(ii), 20(ii), 29, 31, 32)
 
 25. That the Recording Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia:
     1. Arrange to keep minutes of all proceedings of the Arranging Brethren and of all business meetings of the Ecclesia;
     2. Maintain all necessary Ecclesial records;
-    3. Receive and communicate all correspondence intended for the Ecclesia and the Arranging Brethren, and arrange despatch of correspondence as required by the Arranging Brethren;
+    3. Receive and communicate all correspondence intended for the Ecclesia and the Arranging Brethren, and arrange sending of correspondence as required by the Arranging Brethren;
     4. Convene and announce meetings of the Ecclesia and of the Arranging Brethren;
     5. Remind Serving Brethren of their appointments;
     6. Make the necessary preparations to facilitate the business of the Arranging Brethren and of the Ecclesia.
@@ -127,7 +127,7 @@ Refer Micah 6 v 8, James 2 v 13
     2. Keep proper accounts and records relating to all receipts and payments, which may be actioned using computerised accounting and / or other software applications;
     3. Regularly report on the finances of the Ecclesia to the Arranging Brethren;
     4. Prepare annually a statement of accounts for submission to the auditor and provide such information as may be required, and present that audited statement to the Ecclesia at the Annual Business Meeting;
-    5. Prepare and submit annually the required reports to the Charities Service to maintain the Ecclesia's status as a registered charitable entity.
+    5. Prepare and submit annually the required reports to the Charities Services to maintain the Ecclesia's status as a registered charitable entity.
 
 ### Welfare Brethren
 27. That the duties of the Welfare Brethren shall be:
@@ -144,7 +144,7 @@ Refer Micah 6 v 8, James 2 v 13
 29. That the Recording Brother shall call a meeting of the Arranging Brethren as often as the business of the Ecclesia demands. Four Arranging Brethren shall form a quorum. The confirmed minutes of each Arranging Brethren's meeting shall be made available to the Ecclesia as soon as is practicable.
 
 ### Announcement of Meetings
-30. That all meetings of the Arranging Brethren shall be announced beforehand to the Ecclesia, except when the nature of the business requires urgency or confidentiality, and the Brothers and Sisters may attend and take part in the deliberations that may take place, but not to vote. That decisions made by the Arranging Brethren shall have immediate effect, but may be reversed by the Ecclesia at a Special or Annual Meeting. Such a reversal can only affect the future.
+30. That all meetings of the Arranging Brethren shall be announced beforehand to the Ecclesia, except when the nature of the business requires urgency or confidentiality, and the Brothers and Sisters may attend and take part in the deliberations that may take place, but not to vote. Decisions made by the Arranging Brethren shall have immediate effect, but may be reversed by the Ecclesia at a Special or Annual Meeting. Such a reversal can only affect the future.
 
 31. That the Arranging Brethren shall (by the Recording Brother) table the confirmed minutes of their proceedings at the Annual Meeting for acceptance by the Ecclesia.
 
