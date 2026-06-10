@@ -60,7 +60,6 @@ Revised by a special ballot held in July 2026.
 13. That all members of the world-wide Christadelphian body who meet on the same basis as defined in Rule 2, shall be welcome to participate in the Memorial Meeting.
 
 ### Departure from the Faith, Absence
-Refer Micah 6:8, James 2:13
 
 14. That any member departing from any element of the One Faith (refer to Rule 2) or persistently absent without just cause from attending the Memorial Meeting, or wilfully behaving in a manner unworthy of the name of Christ, shall on proof of the fact being given to the satisfaction of the Arranging Brethren cease to be in fellowship. This action is to be taken only after all scriptural steps have been followed to restore the member. The decision to withdraw fellowship shall be announced to the Ecclesia at the next Memorial Meeting, and notified in suitable ecclesial intelligence.
 
@@ -101,6 +100,8 @@ Refer Micah 6:8, James 2:13
     Where any office remains vacant the Arranging Brethren shall have authority to fill the vacancy, temporarily, until a by-election is held.
 
 ### Removal from Office
+Refer Micah 6:8
+
 23. Removal from Office
     1. That Serving Brethren may be removed from office at any time by a majority vote of the whole Ecclesia.
     2. Behaviour unworthy of the name of Christ shall, when proved against any Serving Brethren to the satisfaction of the Arranging Brethren, have the effect of cancelling any appointment held, without a vote of the Ecclesia, and the appointment shall in that case be treated as vacant, and steps taken to fill it accordingly.
@@ -111,8 +112,8 @@ Refer Micah 6:8, James 2:13
 ### Recording Brother
 (see also Rules 8, 11(ii), 12(ii), 20(ii), 29, 31, 32)
 
-25. That the Recording Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia:
-    1. Arrange to keep minutes of all proceedings of the Arranging Brethren and of all business meetings of the Ecclesia;
+25. That the Recording Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia arrange to:
+    1. Keep minutes of all proceedings of the Arranging Brethren and of all business meetings of the Ecclesia;
     2. Maintain all necessary Ecclesial records;
     3. Receive and communicate all correspondence intended for the Ecclesia and the Arranging Brethren, and arrange sending of correspondence as required by the Arranging Brethren;
     4. Convene and announce meetings of the Ecclesia and of the Arranging Brethren;
@@ -122,7 +123,7 @@ Refer Micah 6:8, James 2:13
 ### Finance Brother
 (see also Rule 4)
 
-26. That the Finance Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia:
+26. That the Finance Brother shall, subject to the direction of the Arranging Brethren and the Ecclesia arrange to:
     1. Receive all funds accruing to the Ecclesia and make all necessary payments;
     2. Keep proper accounts and records relating to all receipts and payments, which may be actioned using computerised accounting and / or other software applications;
     3. Regularly report on the finances of the Ecclesia to the Arranging Brethren;
@@ -140,7 +141,7 @@ Refer Micah 6:8, James 2:13
 
 28. That the function of the Arranging Brethren shall be to arrange for the conduct of the meetings, make all necessary appointments, decide all matters affecting the working of the Ecclesia, and fix the required numbers of Serving Brethren.
 
-### Meetings
+### AB Meetings
 29. That the Recording Brother shall call a meeting of the Arranging Brethren as often as the business of the Ecclesia demands. Four Arranging Brethren shall form a quorum. The confirmed minutes of each Arranging Brethren's meeting shall be made available to the Ecclesia as soon as is practicable.
 
 ### Announcement of Meetings
