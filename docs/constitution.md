@@ -86,7 +86,7 @@ Revised by a special ballot held in July 2026.
 20. Serving Brethren
     1. That the following Serving Brethren shall be elected annually by the Ecclesia: Arranging Brothers, Presiding Brothers, Exhorting Brothers, Gospel Proclamation Brothers, Sunday School Superintendent, Librarian, Registrar and Welfare Brethren.
     2. The Arranging Brethren shall consist of up to seven Brothers. At their first meeting after the election the Arranging Brethren shall appoint one of their number to serve as Recording Brother, and shall appoint a Brother to serve as Finance Brother.
-    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: Brothers to speak at Bible Class, and Brothers and Sisters to serve as doorkeepers, organists, table stewards, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
+    3. That the following Serving Brethren shall be appointed annually by the Arranging Brethren: Brothers to speak at Bible Class, and table stewards. Brothers and Sisters to serve as doorkeepers, organists, representatives to the Youth Circle, and such other Brothers and Sisters as the Arranging Brethren may appoint to attend to various matters of detail.
     4. That Serving Brethren shall do their duties as rostered, or provide a substitute from their own number.
 
 ### Eligibility
