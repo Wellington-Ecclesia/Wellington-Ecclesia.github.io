@@ -1,1 +1,36 @@
 <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}" />
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Wrap bible verses in <span> to prevent line breaks (e.g. "John 3:16")
+        document
+            .querySelectorAll(".markdown-body li, .markdown-body p")
+            .forEach(function (el) {
+                el.innerHTML = el.innerHTML.replace(
+                    /(\b(?:\d\s+)?[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?\s+\d+:\d+(?:[-/,]\s*\d+(?::\d+)?)*;?)(?=\s|$|[);,.])/g,
+                    '<span style="white-space:nowrap">$1</span>',
+                );
+            });
+
+        // Wrap each heading with its content to prevent page breaks
+        var headings =
+            ".markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6";
+        document.querySelectorAll(headings).forEach(function (heading) {
+            var wrapper = document.createElement("div");
+            wrapper.style.breakInside = "avoid";
+            wrapper.style.pageBreakInside = "avoid";
+
+            var siblings = [];
+            var next = heading.nextElementSibling;
+            while (next && !/^H[1-6]$/.test(next.tagName)) {
+                siblings.push(next);
+                next = next.nextElementSibling;
+            }
+
+            heading.parentNode.insertBefore(wrapper, heading);
+            wrapper.appendChild(heading);
+            siblings.forEach(function (s) {
+                wrapper.appendChild(s);
+            });
+        });
+    });
+</script>

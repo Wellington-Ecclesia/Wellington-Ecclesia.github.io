@@ -2,13 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-
-.markdown-body > h1:first-of-type {
-    display: none !important;
+.container-lg > div:nth-child(1) > h1:nth-child(1) {
+    display: none !important; // Hide the main site header - don't want it showing on print layouts. Can always add a link to a markdown page if needed
 }
-
 div.container-lg.px-3.my-5.markdown-body {
-    margin-top: 0 !important;
+    margin-top: 0 !important; 
 }
 
 /* Continuous numbering across separate <ol> blocks (e.g. constitution rules) */
@@ -19,11 +17,15 @@ div.container-lg.px-3.my-5.markdown-body {
     counter-reset: rule-counter;
 }
 .markdown-body > ol > li,
-.doc-section > ol > li {
+.markdown-body > div > ol > li,
+.doc-section > ol > li,
+.doc-section > div > ol > li {
     counter-increment: rule-counter;
 }
 .markdown-body > ol > li::marker,
-.doc-section > ol > li::marker {
+.markdown-body > div > ol > li::marker,
+.doc-section > ol > li::marker,
+.doc-section > div > ol > li::marker {
     content: counter(rule-counter) ". ";
 }
 
@@ -47,8 +49,8 @@ h5::after,
 h6::after {
     content: "";
     display: block;
-    height: 200px;
-    margin-bottom: -200px;
+    height: 150px;
+    margin-bottom: -150px;
 }
 
 @media print {
