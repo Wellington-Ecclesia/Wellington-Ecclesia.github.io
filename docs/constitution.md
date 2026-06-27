@@ -44,8 +44,8 @@ Revised by a special ballot held in July 2026.
 ## Baptism
 ### Beliefs considered
 11. Beliefs considered
-    1. That all candidates for baptism, shall have first have been introduced to an understanding of our basis of fellowship, based on an adequate understanding of our beliefs, as defined in the annexed Statement of the Faith, Doctrines to be Rejected, and Epitome of the Commandments of Christ (refer Rule 2).
-    2. **Applications.** That all applications for baptism must be made to the Recording Brother. He shall then confer with the Arranging Brethren who are empowered to make all arrangements for interview and baptism. The interview shall cover the full basis of our beliefs as defined by Rule 2. Wherever possible, the application is to be announced to the Ecclesia at the Memorial Meeting preceding the interview.
+    1. That all candidates for baptism, shall first have been introduced to an understanding of our basis of fellowship, based on an adequate understanding of our beliefs, as defined in the annexed Statement of the Faith, Doctrines to be Rejected, and Epitome of the Commandments of Christ (refer Rule 2).
+    2. **Applications**: That all applications for baptism must be made to the Recording Brother. He shall then confer with the Arranging Brethren who are empowered to make all arrangements for interview and baptism. The interview shall cover the full basis of our beliefs as defined by Rule 2. Wherever possible, the application is to be announced to the Ecclesia at the Memorial Meeting preceding the interview.
 
 
 ## Membership
@@ -69,7 +69,7 @@ Revised by a special ballot held in July 2026.
 ### Separation
 16. That none shall, even for a legitimate cause, separate themselves from the Ecclesia without:
     1. first discussing with or submitting in writing to the Recording Brother, the cause or causes of impending separation, and
-    2. with a view to resolving the issue or issues, the Arranging Brethren or a small group thereof, shall make all endeavours to meet with the person separating with a view to resolving the issue.
+    2. with a view to resolving the issue or issues, make all endeavours to meet with the Arranging Brethren or a small group thereof.
 
 ### Marrying an Unbeliever
 17. Marrying an Unbeliever
@@ -150,4 +150,4 @@ Refer Micah 6:8
 31. That the Arranging Brethren shall (by the Recording Brother) table the confirmed minutes of their proceedings at the Annual Meeting for acceptance by the Ecclesia.
 
 ## Alteration of Rules
-32. That none of the foregoing rules (with the exception of Rule 4(ii) which must be retained to comply with the law of the land) be altered except by a ballot of the whole Ecclesia. To be effective, the alteration must receive the support of at least two thirds of those voting and one half of the numbers on the Ecclesial Roll. A month’s previous notice of intention to propose such alteration (which shall be signed by members representing at least one eighth part of the Ecclesia) must be given to the Recording Brother, who shall place the same on the notice board at the Hall as soon as possible and have it announced to the Ecclesia on four occasions at four consecutive Memorial Meetings and use four consecutive weekly online announcements.
+32. That none of the foregoing rules (with the exception of Rule 4(ii) which must be retained to comply with the law of the land) be altered except by a ballot of the whole Ecclesia. To be effective, the alteration must receive the support of at least two thirds of those voting and one half of the numbers on the Ecclesial Roll. A month’s previous notice of intention to propose such alteration (which shall be signed by members representing at least one eighth part of the Ecclesia) must be given to the Recording Brother, who shall place the same on the notice board at the Hall as soon as possible and have it announced to the Ecclesia at four consecutive Memorial Meetings and use four consecutive weekly online announcements.
